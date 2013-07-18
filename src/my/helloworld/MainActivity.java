@@ -8,6 +8,7 @@ public class MainActivity extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
+		//yumaa
 		super.onCreate(savedInstanceState);
 		// exKAZUu
 		setContentView(R.layout.activity_main);
