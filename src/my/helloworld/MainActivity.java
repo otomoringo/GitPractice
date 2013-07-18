@@ -6,6 +6,7 @@ import android.view.Menu;
 
 public class MainActivity extends Activity {
 
+	//machiko
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		//yumaa
