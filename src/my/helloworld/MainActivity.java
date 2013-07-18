@@ -1,7 +1,7 @@
 package my.helloworld;
 
-import android.os.Bundle;
 import android.app.Activity;
+import android.os.Bundle;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		// exKAZUu
 		setContentView(R.layout.activity_main);
+//otomoringo
 	}
 
 	@Override
